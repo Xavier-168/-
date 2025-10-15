@@ -1,0 +1,21 @@
+# 系统文件
+.DS_Store
+Thumbs.db
+
+# 编辑器
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Vercel
+.vercel
+
+# 可选的作品集文件（如果您不想提交到Git）
+# portfolio/
+
+# 备份文件
+*.bak
+*~
+
+
